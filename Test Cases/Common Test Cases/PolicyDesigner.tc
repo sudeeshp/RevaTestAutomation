@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Common test case used to login. &#xd;
+Steps:&#xd;
+- Click on 'Book Appointment' button to login&#xd;
+- Input username and password&#xd;
+- Click on 'Login' button&#xd;
+&#xd;
+Expected result:&#xd;
+'Appointment' section is displayed after successful login</description>
+   <name>PolicyDesigner</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58f7d628-ec42-4b71-b70d-1fce5350ddc0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a84ab13-1a96-461e-ab55-fdb9bcfa5750</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97142c11-af3b-4b63-882b-bbbe445cf851</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e4d49deb-211c-4082-8658-e64e4491bca6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://clienteks.ea.reva.ai/'</defaultValue>
+      <description></description>
+      <id>0a84ab13-1a96-461e-ab55-fdb9bcfa5750</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'ranga-author'</defaultValue>
+      <description></description>
+      <id>97142c11-af3b-4b63-882b-bbbe445cf851</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'RevaTest@2025'</defaultValue>
+      <description></description>
+      <id>e4d49deb-211c-4082-8658-e64e4491bca6</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
