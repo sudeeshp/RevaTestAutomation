@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New Application</name>
+   <tag></tag>
+   <elementGuidId>d2e460d5-c1fa-40f6-ac70-25dc2fd26608</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.chakra-button.css-1v0vp0i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;New Application&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0f0eb135-017f-4a2e-94cc-f829aa34e754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>87ebcf69-cb78-4383-ae9a-55c017636457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-button css-1v0vp0i</value>
+      <webElementGuid>3af85ada-3e46-4c13-a0ce-b560339bde58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Application</value>
+      <webElementGuid>d3230bf5-227d-4d84-b4d9-2821d1adc650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-d4res&quot;]/div[@class=&quot;css-u0mlfu&quot;]/div[@class=&quot;css-g07lqp&quot;]/div[@class=&quot;css-1yyva0c&quot;]/div[@class=&quot;css-wtnpe1&quot;]/div[@class=&quot;css-1a1nvtv&quot;]/div[@class=&quot;css-1brslgc&quot;]/div[@class=&quot;css-nznorp&quot;]/div[@class=&quot;css-1mucns2&quot;]/div[@class=&quot;css-70qvj9&quot;]/button[@class=&quot;chakra-button css-1v0vp0i&quot;]</value>
+      <webElementGuid>5f103cc5-0fda-47ff-9a74-f742a4d2abb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>ec424ccb-4e26-42cf-b843-45108950a5ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='root']/div/div[3]/div[2]/div/div/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>4ce60f6a-6672-455f-809b-b01e8443039d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hospital'])[1]/preceding::button[1]</value>
+      <webElementGuid>d93873da-efb9-47da-a61f-313d82372c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hospital'])[2]/preceding::button[2]</value>
+      <webElementGuid>39e60ae2-2a17-4f0e-be3a-99e70057f537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Application']/parent::*</value>
+      <webElementGuid>f36e6b95-b725-4cd8-8f7b-a318d30ea202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>3801816d-7648-46ca-a098-49ba5fe7197c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'New Application' or . = 'New Application')]</value>
+      <webElementGuid>42db57b2-0b27-4401-a769-298942fd5689</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nurse3Display Attributedepartment salar_80b7e0</name>
+   <tag></tag>
+   <elementGuidId>6596308b-28ac-4050-b127-92ebad946231</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chakra-modal--body-:r2hv:']/div/div[2]/div/div/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1azfpsg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Nurse3Display Attributedepartment salary supervisor&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d7849d1c-347f-4590-8d02-35088b0520b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1azfpsg</value>
+      <webElementGuid>ea3a2b92-acb4-4fc4-b2a3-d1769e74125b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nurse3Display Attributedepartment salary supervisor </value>
+      <webElementGuid>551064a6-1f01-4574-8712-fb4741378ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-:r2hv:&quot;)/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-10klw3m&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-10nql6b&quot;]/div[@class=&quot;css-1aeraip&quot;]/div[@class=&quot;css-1sqfqi2&quot;]/div[@class=&quot;css-1tg7xjx&quot;]/div[@class=&quot;css-1azfpsg&quot;]</value>
+      <webElementGuid>a338917e-ba4a-4f6c-a10c-3b57136ae92e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-:r2hv:']/div/div[2]/div/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>f1a54e66-16d0-49ce-b080-e39b15f3e215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestEnv One'])[2]/following::div[34]</value>
+      <webElementGuid>b453f68c-d7f5-4df3-93cf-ca0d3d3da1c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[42]</value>
+      <webElementGuid>1a06a476-3c88-4a6a-adeb-cf9ba0dc8de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attribute Type'])[2]/preceding::div[9]</value>
+      <webElementGuid>0ebbc32a-7b11-47d5-bc4c-8c2c4209043c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boolean'])[1]/preceding::div[9]</value>
+      <webElementGuid>ccfa6f25-4aff-4f63-9790-dcdd1338fef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>bceadd39-a29e-44ce-a718-8ec384ef7d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nurse3Display Attributedepartment salary supervisor ' or . = 'Nurse3Display Attributedepartment salary supervisor ')]</value>
+      <webElementGuid>b4590e35-2991-4602-9acc-71f71188a447</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Welcome, Sudesh R</name>
+   <tag></tag>
+   <elementGuidId>1bf5f4b8-28b5-4e71-93e1-abaea26e20d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='root']/div/div[3]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.chakra-text.css-lgr4dk</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Welcome, Sudesh R&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>093f49e5-c627-461d-bd78-927c141cdb3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-text css-lgr4dk</value>
+      <webElementGuid>60148600-6799-4792-a6e6-cb4616aec91b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome, Sudesh R</value>
+      <webElementGuid>27b5e715-16c1-4ff0-a634-279fd7ab5a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-d4res&quot;]/div[@class=&quot;css-1dauj7a&quot;]/div[@class=&quot;css-gg4vpm&quot;]/p[@class=&quot;chakra-text css-lgr4dk&quot;]</value>
+      <webElementGuid>3377dd7c-1899-4e2d-a296-e49d072b4e5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='root']/div/div[3]/div/div/p</value>
+      <webElementGuid>0ff70ab0-2737-4d53-a95d-14e8dd3320ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View more'])[1]/preceding::p[10]</value>
+      <webElementGuid>29d110cc-cd64-4bec-9bc8-594f0bf8f4ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Know more'])[1]/preceding::p[13]</value>
+      <webElementGuid>d5d89031-d252-4ef8-924a-6c223b5ba55d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome']/parent::*</value>
+      <webElementGuid>5a4e6e3c-cb7e-456d-a034-71cd60f64e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/p</value>
+      <webElementGuid>c661a4df-2160-4825-842c-f266f3464943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Welcome, Sudesh R' or . = 'Welcome, Sudesh R')]</value>
+      <webElementGuid>4d5f7925-1290-4d25-bb1c-fe4d3161d9e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search  select application ower(s)_sele_302eca</name>
+   <tag></tag>
+   <elementGuidId>022919d7-466f-410e-a07b-6dc8103f4196</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='root']/div/div[3]/div[2]/div/div/div/div[2]/div/div[2]/div/div[4]/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.select__input-container.css-19bb58m</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.select__input-container</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>35799c74-61db-4d8f-bd51-5e03452db05a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__input-container css-19bb58m</value>
+      <webElementGuid>01b580e3-09b4-4e9d-8099-9871dc7aba79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-d4res&quot;]/div[@class=&quot;css-6ojjju&quot;]/div[@class=&quot;css-gsjzcg&quot;]/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-98oke4&quot;]/div[@class=&quot;css-11g6wkx&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-19kzrtu&quot;]/div[@class=&quot;css-g1ny8a&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;chakra-form-control css-1kxonj9&quot;]/div[@class=&quot;basic-multi-select css-b62m3t-container&quot;]/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-16asy67-control&quot;]/div[@class=&quot;select__value-container select__value-container--is-multi css-hlgwow&quot;]/div[@class=&quot;select__input-container css-19bb58m&quot;]</value>
+      <webElementGuid>1e7c8536-ec62-4643-919f-2f4bd676cf65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='root']/div/div[3]/div[2]/div/div/div/div[2]/div/div[2]/div/div[4]/div/div/div/div/div[2]</value>
+      <webElementGuid>3c6a83b3-f2ec-4366-ae37-5e4c53903a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search &amp; select application ower(s)'])[1]/following::div[1]</value>
+      <webElementGuid>7d862b5b-f9f7-49b9-9c12-1cc524553d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[5]</value>
+      <webElementGuid>2bcd3b9c-fa1e-4f53-a6a3-191582ee1853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rachana'])[1]/preceding::div[3]</value>
+      <webElementGuid>3331c104-2fc4-43d2-bf5d-2cdf7d8e389f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sudesh-approver'])[1]/preceding::div[4]</value>
+      <webElementGuid>86ab740c-7d21-4c78-b2b7-47544c1bf1cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div[2]</value>
+      <webElementGuid>617c53f9-856a-46fa-886a-09e787372d55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
