@@ -13,9 +13,9 @@ import java.text.SimpleDateFormat
 public class SideButtons {
 
 	@Keyword
-	public void ValidateSideButtons() {	
-		
-					
+	public void ValidateSideButtons() {
+
+
 		List<WebElement> SideButtons = WebUI.findWebElements(findTestObject('Home_Page/side_Buttons'), 10)
 		for (int i = 0; i < SideButtons.size(); i++) {
 			try {
@@ -28,16 +28,14 @@ public class SideButtons {
 				sideBtn.click()
 				WebUI.waitForPageLoad(10)
 				SideButtons = WebUI.findWebElements(findTestObject('Home_Page/side_Buttons'), 10)
-				sideBtn = SideButtons.get(i)		
+				sideBtn = SideButtons.get(i)
 				getScreenShotWithHighlight.takeHighlightedScreenshot(sideBtn, "Highlighted_Button", i+1)
 			} catch (org.openqa.selenium.StaleElementReferenceException e) {
 				WebUI.comment("⚠️ Stale element exception caught for index " + i + ". Retrying...")
 				i--
 			}
 		}
-	
-	
-}
+	}
 }
 
 
