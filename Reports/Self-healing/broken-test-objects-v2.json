@@ -1,3 +1,24 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ManageApplications/Page_Reva.ai/path",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": ".css-15lsz6c-indicatorContainer \u003e .css-8mmkcg \u003e path",
+      "proposedLocatorMethod": "SMART_LOCATOR",
+      "recoveryMethod": "SMART_LOCATOR",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ManageApplications/Page_Reva.ai/path_SMART_LOCATOR.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ManageApplications/Page_Reva.ai/div_Consulting",
+      "brokenLocator": "//div[@id\u003d\u0027react-select-4-option-1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Search \u0026 select application tags\u0027])[1]/following::div[7]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ManageApplications/Page_Reva.ai/div_Consulting_neighbor.png"
+    }
+  ]
 }

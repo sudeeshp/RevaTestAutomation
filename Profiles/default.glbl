@@ -6,17 +6,22 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>10</initValue>
-      <name>G_Timeout</name>
+      <initValue>'https://clienteks.ea.reva.ai/'</initValue>
+      <name>App_Url</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://demoaut.katalon.com'</initValue>
-      <name>G_SiteURL</name>
+      <initValue>'sudesh-author'</initValue>
+      <name>UserName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>5</initValue>
-      <name>G_ShortTimeOut</name>
+      <initValue>'Sudeesh@1990'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Sudesh R'</initValue>
+      <name>LoggedIn_UserText</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
