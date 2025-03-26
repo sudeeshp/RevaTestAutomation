@@ -21,9 +21,9 @@ CustomKeywords.'loginPage.NavigateToLogin.NavigateUrl'()
 
 CustomKeywords.'homePage.VerifyLoggedInUser.ValidateUserDetails'()
 
-CustomKeywords.'loginPage.UserLogin.Login'()
-
 CustomKeywords.'homePage.SideButtons.ValidateSideButtons'()
+
+CustomKeywords.'loginPage.UserLogin.Login'()
 
 WebUI.closeBrowser()
 
