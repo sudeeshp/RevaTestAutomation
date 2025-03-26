@@ -23,7 +23,7 @@ import internal.GlobalVariable
 public class VerifyLoggedInUser {
 	@Keyword
 	public void ValidateUserDetails() {
-		WebUI.verifyTextPresent(('Welcome, ' + GlobalVariable.LoggedIn_UserText) + '', false)		
+		WebUI.verifyTextPresent(('Welcome, ' + GlobalVariable.LoggedIn_UserText) + '', false)
 		WebUI.waitForPageLoad(500)
 	}
 }
